@@ -3,6 +3,5 @@ node_modules/
 package-lock.json
 
 # local files
-.idea/
 .DS_Store
 *.log
